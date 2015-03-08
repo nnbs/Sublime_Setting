@@ -1,0 +1,13 @@
+**/cache
+**/bz2
+**/Package Control.cache
+Local
+
+0_package_control_loader.sublime-package
+
+*.last-run
+
+!Installed Packages/
+Installed Packages/*
+!Installed Packages/0_package_control_loader.sublime-package
+!Installed Packages/Package Control.sublime-package
