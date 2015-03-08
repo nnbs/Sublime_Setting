@@ -6,6 +6,7 @@ Local
 0_package_control_loader.sublime-package
 
 *.last-run
+*.bak
 
 !Installed Packages/
 Installed Packages/*

@@ -5,6 +5,8 @@
 	"installed_packages":
 	[
 		"Git Config",
-		"Package Control"
+		"Makefile Improved",
+		"Package Control",
+		"TrailingSpaces"
 	]
 }
